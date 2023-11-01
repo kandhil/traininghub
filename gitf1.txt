@@ -1,3 +1,2 @@
 hello everyone
-i am learning devops 
-git add
+i am learning devops
